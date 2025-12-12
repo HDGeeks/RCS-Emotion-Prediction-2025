@@ -1,0 +1,43 @@
+{
+  "ambience": {
+    "positive": ["Admiration", "Approval", "Relaxation", "Excitement", "Impressed"],
+    "negative": ["Annoyance", "Disappointment", "Disapproval", "Confusion", "Fear"],
+    "neutral": ["Indifferent"]
+  },
+  "food": {
+    "positive": ["Joy", "Admiration", "Impressed", "Satisfaction"],
+    "negative": ["Disgust", "Disappointment", "Annoyance", "Confusion", "Remorse"],
+    "neutral": ["Indifferent"]
+  },
+  "menu": {
+    "positive": ["Approval", "Excitement", "Appreciation", "Impressed"],
+    "negative": ["Disappointment", "Annoyance", "Confusion"],
+    "neutral": ["Indifferent"]
+  },
+  "place": {
+    "positive": ["Approval", "Admiration", "Relief"],
+    "negative": ["Fear", "Disappointment", "Annoyance", "Confusion"],
+    "neutral": ["Indifferent"]
+  },
+  "price": {
+    "positive": ["Approval", "Joy", "Satisfaction", "Surprise", "Relief"],
+    "negative": ["Disappointment", "Disapproval", "Annoyance", "Frustration"],
+    "neutral": ["Indifferent", "Realization"]
+  },
+  "service": {
+    "positive": ["Approval", "Admiration", "Gratitude"],
+    "negative": ["Annoyance", "Disappointment", "Frustration"],
+    "neutral": ["Indifferent"]
+  },
+  "staff": {
+    "positive": ["Gratitude", "Admiration", "Satisfaction"],
+    "negative": ["Disappointment", "Frustration", "Annoyance"],
+    "neutral": ["Indifferent"]
+  },
+
+  "miscellaneous": {
+    "positive": ["Admiration", "Approval", "Joy", "Satisfaction", "Relief", "Surprise", "Excitement"],
+    "negative": ["Annoyance", "Disappointment", "Disapproval", "Confusion", "Frustration", "Fear"],
+    "neutral": ["Indifferent", "Realization"]
+  }
+}
