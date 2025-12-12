@@ -7,3 +7,6 @@
 5 . Only work on ur branch
 6 . code can be put in src/your_name/
 7 . Result can be stored in results/your_name/
+8 . Prompts can be stored in prompts/your_name/
+9 . You can work with jupyetr or py , jupyter is nice for readbility
+10 . Be modular
