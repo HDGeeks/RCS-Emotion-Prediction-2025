@@ -10,3 +10,5 @@
 8 . Prompts can be stored in prompts/your_name/
 9 . You can work with jupyetr or py , jupyter is nice for readbility
 10 . Be modular
+11 . Utils is in git ignore modify path accordingly , u can define until file level and save ur self a head ache
+12 NEVER USE ABSOLUTE PATHS
