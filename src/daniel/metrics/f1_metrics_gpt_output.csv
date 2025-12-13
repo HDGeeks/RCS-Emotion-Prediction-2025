@@ -1,0 +1,18 @@
+Emotion Macro F1,Emotion Micro F1,Emotion Accuracy,Detailed Report
+0.4140742105970291,0.4957118353344768,0.4957118353344768,"emotion           precision    recall  f1-score   support
+                precision    recall  f1-score   support
+
+    admiration       0.48      0.59      0.53        74
+     annoyance       0.50      0.74      0.60       119
+disappointment       0.44      0.33      0.38       104
+       disgust       0.50      0.29      0.36         7
+     gratitude       0.43      0.33      0.38         9
+mentioned_only       0.61      0.59      0.60        90
+mixed_emotions       0.20      0.08      0.11        13
+    no_emotion       0.32      0.21      0.25        67
+  satisfaction       0.54      0.50      0.52       100
+
+      accuracy                           0.50       583
+     macro avg       0.45      0.41      0.41       583
+  weighted avg       0.48      0.50      0.48       583
+"
